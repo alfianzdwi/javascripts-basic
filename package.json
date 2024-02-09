@@ -1,0 +1,19 @@
+{
+  "name": "basic-javascripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Node.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
